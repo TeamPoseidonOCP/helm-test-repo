@@ -3,7 +3,7 @@ entries:
   helm-test:
   - apiVersion: v2
     appVersion: "0"
-    created: "2023-12-28T13:28:38.525612+01:00"
+    created: "2023-12-28T13:41:12.170442+01:00"
     description: A Helm chart for creating tenants in OpenShift
     digest: 9b0a975ac2b6151b25b87c8e16fa339735e9426bcb923c9ed3700fbcd65d9af5
     name: helm-test
@@ -11,4 +11,4 @@ entries:
     urls:
     - helm-test-0.0.1.tgz
     version: 0.0.1
-generated: "2023-12-28T13:28:38.524366+01:00"
+generated: "2023-12-28T13:41:12.169381+01:00"
